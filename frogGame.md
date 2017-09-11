@@ -1,7 +1,7 @@
-###FrogÓÎÏ·¶Ôflex²¼¾ÖÁ·Ï°
-####µÚÒ»¹Ø
+### Frogæ¸¸æˆå¯¹flexå¸ƒå±€ç»ƒä¹ 
+#### ç¬¬ä¸€å…³
 ```
-/*ÈİÆ÷µÄÅÅÁĞ·½ÏòË®Æ½ÄæĞò*/
+/*å®¹å™¨çš„æ’åˆ—æ–¹å‘æ°´å¹³é€†åº*/
 flex-direction:row-reverse
 ```
 ![](leanote://file/getImage?fileId=59b66377198a884933000003)
@@ -10,9 +10,9 @@ flex-direction:row-reverse
 
 
 ![](leanote://file/getImage?fileId=59b66380198a884933000004)
-####µÚ¶ş¹Ø
+#### ç¬¬äºŒå…³
 ```
-/*¸»Ô£¿Õ¼äÔÚÁ½±ß*/
+/*å¯Œè£•ç©ºé—´åœ¨ä¸¤è¾¹*/
 justify-content:center;
 ```
 ![](leanote://file/getImage?fileId=59b663e5198a884933000005)
@@ -20,9 +20,9 @@ justify-content:center;
 ----------
 ![](leanote://file/getImage?fileId=59b663f1198a884933000006)
 
-####µÚÈı¹Ø
+#### ç¬¬ä¸‰å…³
 ```
-/*¸»Ô£¿Õ¼äÔÚÏîÄ¿Á½±ß*/
+/*å¯Œè£•ç©ºé—´åœ¨é¡¹ç›®ä¸¤è¾¹*/
 justify-content:space-around
 ```
 ![](leanote://file/getImage?fileId=59b66446198a884933000007)
@@ -30,9 +30,9 @@ justify-content:space-around
 ----------
 ![](leanote://file/getImage?fileId=59b66455198a884933000008)
 
-####µÚËÄ¹Ø
+#### ç¬¬å››å…³
 ```
-/*¸»Ô£¿Õ¼äÔÚÏîÄ¿Ö®¼ä*/
+/*å¯Œè£•ç©ºé—´åœ¨é¡¹ç›®ä¹‹é—´*/
 justify-content:space-between
 ```
 ![](leanote://file/getImage?fileId=59b664a1198a884933000009)
@@ -40,9 +40,9 @@ justify-content:space-between
 ----------
 ![](leanote://file/getImage?fileId=59b664aa198a88493300000a)
 
-####µÚÎå¹Ø
+#### ç¬¬äº”å…³
 ```
-/*¸»Ô£¿Õ¼äÔÚ²àÖáµÄ·´·½Ïò*/
+/*å¯Œè£•ç©ºé—´åœ¨ä¾§è½´çš„åæ–¹å‘*/
 align-items:flex-end
 ```
 ![](leanote://file/getImage?fileId=59b66501198a88493300000b)
@@ -50,9 +50,9 @@ align-items:flex-end
 ----------
 ![](leanote://file/getImage?fileId=59b6650a198a88493300000c)
 
-####µÚÁù¹Ø
+#### ç¬¬å…­å…³
 ```
-/*¸»Ô£¿Õ¼ä·Ö±ğÔÚÖ÷Öá²àÖáµÄÁ½±ß*/
+/*å¯Œè£•ç©ºé—´åˆ†åˆ«åœ¨ä¸»è½´ä¾§è½´çš„ä¸¤è¾¹*/
 justify-content:center;
 align-items:center;
 ```
@@ -61,9 +61,9 @@ align-items:center;
 ----------
 ![](leanote://file/getImage?fileId=59b66572198a88493300000e)
 
-####µÚÆß¹Ø
+#### ç¬¬ä¸ƒå…³
 ```
-/*Ö÷ÖáÉÏ¸»Ô£¿Õ¼äÔÚÏîÄ¿Á½±ß£¬²àÖáÉÏ¸»Ô£¿Õ¼äÔÚ²àÖáµÄ·´·½Ïò*/
+/*ä¸»è½´ä¸Šå¯Œè£•ç©ºé—´åœ¨é¡¹ç›®ä¸¤è¾¹ï¼Œä¾§è½´ä¸Šå¯Œè£•ç©ºé—´åœ¨ä¾§è½´çš„åæ–¹å‘*/
 justify-content:space-around;
 align-items:flex-end;
 ```
@@ -72,9 +72,9 @@ align-items:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b665cd198a884933000010)
 
-####µÚ°Ë¹Ø
+#### ç¬¬å…«å…³
 ```
-/*Ö÷ÖáÉÏÈİÆ÷ÅÅÁĞ·½ÏòµÄÄæĞò*/
+/*ä¸»è½´ä¸Šå®¹å™¨æ’åˆ—æ–¹å‘çš„é€†åº*/
 flex-direction:row-reverse;
 ```
 ![](leanote://file/getImage?fileId=59b66678198a884933000011)
@@ -82,9 +82,9 @@ flex-direction:row-reverse;
 ----------
 ![](leanote://file/getImage?fileId=59b66682198a884933000012)
 
-####µÚ¾Å¹Ø
+#### ç¬¬ä¹å…³
 ```
-/*ÈİÆ÷µÄ²¼¾Ö·½Ïò Ö÷ÖáÎªYÖá*/
+/*å®¹å™¨çš„å¸ƒå±€æ–¹å‘ ä¸»è½´ä¸ºYè½´*/
 flex-direction:column;
 ```
 ![](leanote://file/getImage?fileId=59b666f8198a884933000013)
@@ -92,9 +92,9 @@ flex-direction:column;
 ----------
 ![](leanote://file/getImage?fileId=59b66706198a884933000014)
 
-####µÚÊ®¹Ø
+#### ç¬¬åå…³
 ```
-/*ÈİÆ÷µÄÅÅÁĞ·½ÏòÔÚÖ÷ÖáÉÏÄæĞòÅÅÁĞ ¸»Ô£¿Õ¼äÔÚÖ÷ÖáµÄ·´·½Ïò*/
+/*å®¹å™¨çš„æ’åˆ—æ–¹å‘åœ¨ä¸»è½´ä¸Šé€†åºæ’åˆ— å¯Œè£•ç©ºé—´åœ¨ä¸»è½´çš„åæ–¹å‘*/
 flex-direction:row-reverse;
 justify-content:flex-end;
 ```
@@ -103,9 +103,9 @@ justify-content:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b66719198a884933000016)
 
-####µÚÊ®Ò»¹Ø
+#### ç¬¬åä¸€å…³
 ```
-/*ÈİÆ÷µÄ²¼¾Ö·½ÏòÈ·¶¨Ö÷ÖáÎªYÖá ¸»Ô£¿Õ¼äÔÚÖ÷ÖáµÄ·´·½Ïò*/
+/*å®¹å™¨çš„å¸ƒå±€æ–¹å‘ç¡®å®šä¸»è½´ä¸ºYè½´ å¯Œè£•ç©ºé—´åœ¨ä¸»è½´çš„åæ–¹å‘*/
 flex-direction:column;
 justify-content:flex-end;
 ```
@@ -114,9 +114,9 @@ justify-content:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b66784198a884933000018)
 
-####µÚÊ®¶ş¹Ø
+#### ç¬¬åäºŒå…³
 ```
-/*ÈİÆ÷Ö÷ÖáÈ·¶¨ÎªYÖáÇÒÅÅÁĞ¿Õ¼äÎªÄæĞòÅÅÁĞ ¸»Ô£¿Õ¼äÔÚÏîÄ¿Ö®¼ä*/
+/*å®¹å™¨ä¸»è½´ç¡®å®šä¸ºYè½´ä¸”æ’åˆ—ç©ºé—´ä¸ºé€†åºæ’åˆ— å¯Œè£•ç©ºé—´åœ¨é¡¹ç›®ä¹‹é—´*/
 flex-direction:column-reverse;
 justify-content:space-between;
 ```
@@ -125,9 +125,9 @@ justify-content:space-between;
 ----------
 ![](leanote://file/getImage?fileId=59b667e9198a88493300001a)
 
-####µÚÊ®Èı¹Ø
+#### ç¬¬åä¸‰å…³
 ```
-/*Ö÷ÖáÎªXÖáÄæĞòÅÅÁĞ Ö÷ÖáµÄ¸»Ô£¿Õ¼äÔÚÁ½±ß ²àÖáµÄ¸»Ô£¿Õ¼äÔÚ·´·½Ïò*/
+/*ä¸»è½´ä¸ºXè½´é€†åºæ’åˆ— ä¸»è½´çš„å¯Œè£•ç©ºé—´åœ¨ä¸¤è¾¹ ä¾§è½´çš„å¯Œè£•ç©ºé—´åœ¨åæ–¹å‘*/
 flex-direction:row-reverse;
 justify-content:center;
 align-items:flex-end;
@@ -137,9 +137,9 @@ align-items:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b66a50198a884933000029)
 
-####µÚÊ®ËÄ¹Ø
+#### ç¬¬åå››å…³
 ```
-/*»ÆÉ«µÄµ÷µ½µÚÈıÎ»*/
+/*é»„è‰²çš„è°ƒåˆ°ç¬¬ä¸‰ä½*/
 order:3;
 ```
 ![](leanote://file/getImage?fileId=59b66a91198a88493300002a)
@@ -147,7 +147,7 @@ order:3;
 ----------
 ![](leanote://file/getImage?fileId=59b66a9c198a88493300002b)
 
-####µÚÊ®Îå¹Ø
+#### ç¬¬åäº”å…³
 ```
 order:-1
 ```
@@ -156,9 +156,9 @@ order:-1
 ----------
 ![](leanote://file/getImage?fileId=59b66aea198a88493300002d)
 
-####µÚÊ®Áù¹Ø
+#### ç¬¬åå…­å…³
 ```
-/*¶ÔÆëflexÖĞµÄÏîÄ¿ ¸²¸Çalign-itemsµÄÖµ*/
+/*å¯¹é½flexä¸­çš„é¡¹ç›® è¦†ç›–align-itemsçš„å€¼*/
 align-self:flex-end;
 ```
 ![](leanote://file/getImage?fileId=59b66b2c198a88493300002e)
@@ -166,7 +166,7 @@ align-self:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b66b35198a88493300002f)
 
-####µÚÊ®Æß¹Ø
+#### ç¬¬åä¸ƒå…³
 ```
 order:2;
 align-self:flex-end;
@@ -176,9 +176,9 @@ align-self:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b66ba9198a884933000031)
 
-####µÚÊ®°Ë¹Ø
+#### ç¬¬åå…«å…³
 ```
-/*»»ĞĞ*/
+/*æ¢è¡Œ*/
 flex-wrap:wrap;
 ```
 ![](leanote://file/getImage?fileId=59b66bb1198a884933000032)
@@ -186,9 +186,9 @@ flex-wrap:wrap;
 ----------
 ![](leanote://file/getImage?fileId=59b66bb9198a884933000033)
 
-####µÚÊ®¾Å¹Ø
+#### ç¬¬åä¹å…³
 ```
-/*ÏÈµ÷ÕûÖ÷ÖáÎªYÖá  È»ºó»»ĞĞ*/
+/*å…ˆè°ƒæ•´ä¸»è½´ä¸ºYè½´  ç„¶åæ¢è¡Œ*/
 flex-direction:column;
 flex-wrap:wrap;
 ```
@@ -197,9 +197,9 @@ flex-wrap:wrap;
 ----------
 ![](leanote://file/getImage?fileId=59b669f8198a884933000027)
 
-####µÚ¶şÊ®¹Ø
+#### ç¬¬äºŒåå…³
 ```
-/*Ê¹ÓÃflex-flow½«flex-directionºÍflex-wrap¼òĞ´*/
+/*ä½¿ç”¨flex-flowå°†flex-directionå’Œflex-wrapç®€å†™*/
 flex-flow:column wrap;
 ```
 ![](leanote://file/getImage?fileId=59b669a6198a884933000024)
@@ -207,9 +207,9 @@ flex-flow:column wrap;
 ----------
 
 ![](leanote://file/getImage?fileId=59b669b0198a884933000025)
-####µÚ¶şÊ®Ò»¹Ø
+#### ç¬¬äºŒåä¸€å…³
 ```
-/*Ê¹ÓÃalign-content½«²àÖáµÄ¸»Ô£¿Õ¼ä°´²àÖáµÄÕı·½ÏòÅÅÁĞ*/
+/*ä½¿ç”¨align-contentå°†ä¾§è½´çš„å¯Œè£•ç©ºé—´æŒ‰ä¾§è½´çš„æ­£æ–¹å‘æ’åˆ—*/
 align-content:flex-start;
 ```
 ![](leanote://file/getImage?fileId=59b66957198a884933000022)
@@ -217,9 +217,9 @@ align-content:flex-start;
 ----------
 ![](leanote://file/getImage?fileId=59b66962198a884933000023)
 
-####µÚ¶şÊ®¶ş¹Ø
+#### ç¬¬äºŒåäºŒå…³
 ```
-/*Ê¹ÓÃalign-content½«²àÖáµÄ¸»Ô£¿Õ¼ä°´²àÖáµÄ·´·½ÏòÅÅÁĞ*/
+/*ä½¿ç”¨align-contentå°†ä¾§è½´çš„å¯Œè£•ç©ºé—´æŒ‰ä¾§è½´çš„åæ–¹å‘æ’åˆ—*/
 align-content:flex-end;
 ```
 ![](leanote://file/getImage?fileId=59b668da198a884933000020)
@@ -227,9 +227,9 @@ align-content:flex-end;
 ----------
 ![](leanote://file/getImage?fileId=59b668e4198a884933000021)
 
-####µÚ¶şÊ®Èı¹Ø
+#### ç¬¬äºŒåä¸‰å…³
 ```
-/*È·¶¨Ö÷ÖáÒÔ¼°ÅÅÁĞ·½Ïò È»ºó½«²àÖáÓÃalign-content:centerÈİÆ÷ÖĞĞÄÌî³ä*/
+/*ç¡®å®šä¸»è½´ä»¥åŠæ’åˆ—æ–¹å‘ ç„¶åå°†ä¾§è½´ç”¨align-content:centerå®¹å™¨ä¸­å¿ƒå¡«å……*/
 flex-direction:column-reverse;
 align-content:center;
 ```
@@ -238,11 +238,11 @@ align-content:center;
 ----------
 ![](leanote://file/getImage?fileId=59b66896198a88493300001f)
 
-####µÚ¶şÊ®ËÄ¹Ø
+#### ç¬¬äºŒåå››å…³
 ```
-/*È·¶¨Ö÷ÖáÒÔ¼°»»ĞĞ·½ÏòÇĞ¾ùÎªÄæĞò
-  Ö÷ÖáµÄ¸»Ô£¿Õ¼äÔÚÁ½±ß
-  ²àÖáµÄ¸»Ô£¿Õ¼äÔÚÏîÄ¿Ö®¼ä
+/*ç¡®å®šä¸»è½´ä»¥åŠæ¢è¡Œæ–¹å‘åˆ‡å‡ä¸ºé€†åº
+  ä¸»è½´çš„å¯Œè£•ç©ºé—´åœ¨ä¸¤è¾¹
+  ä¾§è½´çš„å¯Œè£•ç©ºé—´åœ¨é¡¹ç›®ä¹‹é—´
 */
 flex-flow:column-reverse wrap-reverse;
 justify-content:center;
@@ -253,7 +253,7 @@ align-content:space-between;
 ----------
 
 ![](leanote://file/getImage?fileId=59b66841198a88493300001d)
-###GitHubÊ×Ò³
+###GitHubé¦–é¡µ
 https://github.com/jiarongGitHub
 
 
